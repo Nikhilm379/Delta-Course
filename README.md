@@ -1,2 +1,2 @@
 # Delta-Course
-Code Learning
+Delta courses Learning
